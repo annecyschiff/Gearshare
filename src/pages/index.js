@@ -12,8 +12,9 @@ const IndexPage = () => (
       <h1>Hi peoples!</h1>
       <p>Welcome to your new Shop powered by Gatsby and Shopify.</p>
       <ProductGrid />
-      <Link to="/page-2/">Go to page 2</Link>
-    </Layout>
+      <Link to="/page-2/">page 2</Link>span>&nbsp;&#124;&nbsp;</span>
+    <Link to="/contact/">Contact</Link>
+  </Layout>
   </>
 )
 
